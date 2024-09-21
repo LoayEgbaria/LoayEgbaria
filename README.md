@@ -27,9 +27,6 @@ I'm **Loay Egbaria**, a passionate **Computer Science student**.
 ## 🔧 Technologies & Tools
 Here are some of the technologies and tools I’m currently working with:
 
-## 🔧 Technologies & Tools
-Here are some of the technologies and tools I’m currently working with:
-
 - **Languages**: Python, Java, C++, C, SQL, MATLAB, Assembly
 - **Frameworks**: Django, Flask, FastAPI, Spring
 - **Libraries**: NumPy, pandas, TensorFlow, PyTorch
