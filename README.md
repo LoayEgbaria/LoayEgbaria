@@ -14,11 +14,24 @@
 
 ###
 
-<br><h4 align="left">🔧 Technologies & Tools :<br><br>Here are some of the technologies and tools I’m currently working with:<br><br>Languages: Python, Java, C++, C, SQL, MATLAB, Assembly<br>Frameworks: Django, Flask, FastAPI, Spring<br>Libraries: NumPy, pandas, TensorFlow, PyTorch<br>Tools: Git, Docker, Jenkins, JIRA, Postman, Audacity<br>IDEs: IntelliJ IDEA, PyCharm, VS Code, Android Studio, Visual Studio, SceneBuilder<br>Databases: MySQL, PostgreSQL, MongoDB, SQLite<br>Platforms: AWS, Azure, Google Cloud Platform, VMware, Linux<br>DevOps: Kubernetes, Terraform, Ansible<br>Version Control: GitHub, GitLab, Bitbucket<br>Design: Figma, Adobe XD, Canva<br>Other: Room API, UI/UX, Server, SPDemo, VCDemo, Operating Systems, Software Engineering, OOP, Algorithms.</h4>
+<br><h4 align="left">🔧 Languages & Tools :
+<br>Here are some of the technologies and tools I’m currently working with:
+
+- **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly
+- **Frameworks**: Django · Flask · FastAPI · Spring
+- **Libraries**: NumPy · pandas · TensorFlow · PyTorch
+- **Tools**: Git · Docker · Jenkins · JIRA · Postman · Audacity
+- **IDEs**: IntelliJ IDEA · PyCharm · VS Code · Android Studio · Visual Studio · SceneBuilder
+- **Databases**: MySQL · PostgreSQL · MongoDB · SQLite
+- **Platforms**: AWS · Azure · Google Cloud Platform · VMware · Linux
+- **DevOps**: Kubernetes · Terraform · Ansible
+- **Version Control**: GitHub · GitLab · Bitbucket
+- **Design**: Figma · Adobe XD · Canva
+- **Other**: Room API · UI/UX · Server · SPDemo · VCDemo · Operating Systems · Software Engineering · OOP · Algorithms</h4>
 
 ###
 
-<h4 align="left">🧑‍💻 Languages and Tools :</h4>
+<h4 align="left">🧑‍💻 Tech Stack :</h4>
 
 ###
 
