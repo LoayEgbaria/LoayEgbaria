@@ -14,9 +14,7 @@
 
 ###
 
-<br><h4 align="left">🔧 Languages & Tools :
-<br>Here are some of the technologies and tools I’m currently working with:
-
+<br><h4 align="left">🔧 Technologies and Tools I've Worked With :
 - **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly
 - **Frameworks**: Django · Flask · FastAPI · Spring
 - **Libraries**: NumPy · pandas · TensorFlow · PyTorch
@@ -31,7 +29,7 @@
 
 ###
 
-<h4 align="left">🧑‍💻 Tech Stack :</h4>
+<h4 align="left">🧑‍💻 Languages & Tools :</h4>
 
 ###
 
