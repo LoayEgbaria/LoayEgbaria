@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">🚀 About Me :<br><br>🔭 I’m currently working on AI-powered Android applications.<br><br>🌱 I’m currently learning Animation and Robotics.<br><br>🎓 Education: Currently studying Computer Science at University of Haifa.<br><br>📫 How to reach me: Loayegb@gmail.com.</h4>
+<h4 align="left">🚀 About Me :<br><br>🔭 I’m currently working on AI-powered Android applications and Animation and Robotics projects..<br><br>🎓 Education: Currently studying Computer Science at University of Haifa.<br><br>📫 How to reach me: Loayegb@gmail.com .</h4>
 
 ###
 
