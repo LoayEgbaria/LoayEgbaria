@@ -2,9 +2,9 @@
 
 # 👨‍💻 Loay Egbaria
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ### *Transforming Ideas into Intelligent Solutions* 🚀
 
@@ -37,7 +37,7 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <br clear="right"/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🛠️ Technology Arsenal
 
@@ -45,16 +45,16 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=1A1A1A)
+![Java](https://img.shields.io/badge/Java-FFD700?style=for-the-badge&logo=openjdk&logoColor=1A1A1A)
+![C++](https://img.shields.io/badge/C++-FFD700?style=for-the-badge&logo=cplusplus&logoColor=1A1A1A)
+![C](https://img.shields.io/badge/C-FFD700?style=for-the-badge&logo=c&logoColor=1A1A1A)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=1A1A1A)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=1A1A1A)
+![MATLAB](https://img.shields.io/badge/MATLAB-FFD700?style=for-the-badge&logo=mathworks&logoColor=1A1A1A)
+![Assembly](https://img.shields.io/badge/Assembly-FFD700?style=for-the-badge&logo=assemblyscript&logoColor=1A1A1A)
+![HTML5](https://img.shields.io/badge/HTML5-FFD700?style=for-the-badge&logo=html5&logoColor=1A1A1A)
+![CSS3](https://img.shields.io/badge/CSS3-FFD700?style=for-the-badge&logo=css3&logoColor=1A1A1A)
 
 </div>
 
@@ -64,18 +64,18 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 **Backend Frameworks**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-FFD700?style=for-the-badge&logo=django&logoColor=1A1A1A)
+![Flask](https://img.shields.io/badge/Flask-FFD700?style=for-the-badge&logo=flask&logoColor=1A1A1A)
+![FastAPI](https://img.shields.io/badge/FastAPI-FFD700?style=for-the-badge&logo=fastapi&logoColor=1A1A1A)
+![Spring](https://img.shields.io/badge/Spring-FFD700?style=for-the-badge&logo=spring&logoColor=1A1A1A)
 
 **AI/ML Libraries**
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFD700?style=for-the-badge&logo=tensorflow&logoColor=1A1A1A)
+![PyTorch](https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=1A1A1A)
+![NumPy](https://img.shields.io/badge/NumPy-FFD700?style=for-the-badge&logo=numpy&logoColor=1A1A1A)
+![Pandas](https://img.shields.io/badge/Pandas-FFD700?style=for-the-badge&logo=pandas&logoColor=1A1A1A)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-FFD700?style=for-the-badge&logo=scikit-learn&logoColor=1A1A1A)
 
 </div>
 
@@ -83,11 +83,11 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Room](https://img.shields.io/badge/Room-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-FFD700?style=for-the-badge&logo=mysql&logoColor=1A1A1A)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FFD700?style=for-the-badge&logo=postgresql&logoColor=1A1A1A)
+![MongoDB](https://img.shields.io/badge/MongoDB-FFD700?style=for-the-badge&logo=mongodb&logoColor=1A1A1A)
+![SQLite](https://img.shields.io/badge/SQLite-FFD700?style=for-the-badge&logo=sqlite&logoColor=1A1A1A)
+![Room](https://img.shields.io/badge/Room-FFD700?style=for-the-badge&logo=android&logoColor=1A1A1A)
 
 </div>
 
@@ -95,14 +95,14 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FFD700?style=for-the-badge&logo=amazon-aws&logoColor=1A1A1A)
+![Azure](https://img.shields.io/badge/Azure-FFD700?style=for-the-badge&logo=microsoft-azure&logoColor=1A1A1A)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-FFD700?style=for-the-badge&logo=google-cloud&logoColor=1A1A1A)
+![Docker](https://img.shields.io/badge/Docker-FFD700?style=for-the-badge&logo=docker&logoColor=1A1A1A)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-FFD700?style=for-the-badge&logo=kubernetes&logoColor=1A1A1A)
+![Terraform](https://img.shields.io/badge/Terraform-FFD700?style=for-the-badge&logo=terraform&logoColor=1A1A1A)
+![Ansible](https://img.shields.io/badge/Ansible-FFD700?style=for-the-badge&logo=ansible&logoColor=1A1A1A)
+![VMware](https://img.shields.io/badge/VMware-FFD700?style=for-the-badge&logo=vmware&logoColor=1A1A1A)
 
 </div>
 
@@ -110,12 +110,12 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFD700?style=for-the-badge&logo=git&logoColor=1A1A1A)
+![GitHub](https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=1A1A1A)
+![GitLab](https://img.shields.io/badge/GitLab-FFD700?style=for-the-badge&logo=gitlab&logoColor=1A1A1A)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-FFD700?style=for-the-badge&logo=bitbucket&logoColor=1A1A1A)
+![Jenkins](https://img.shields.io/badge/Jenkins-FFD700?style=for-the-badge&logo=jenkins&logoColor=1A1A1A)
+![Linux](https://img.shields.io/badge/Linux-FFD700?style=for-the-badge&logo=linux&logoColor=1A1A1A)
 
 </div>
 
@@ -123,11 +123,11 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-65C179?style=for-the-badge&logo=testrail&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-FFD700?style=for-the-badge&logo=jira&logoColor=1A1A1A)
+![TestRail](https://img.shields.io/badge/TestRail-FFD700?style=for-the-badge&logo=testrail&logoColor=1A1A1A)
+![Postman](https://img.shields.io/badge/Postman-FFD700?style=for-the-badge&logo=postman&logoColor=1A1A1A)
+![Jest](https://img.shields.io/badge/Jest-FFD700?style=for-the-badge&logo=jest&logoColor=1A1A1A)
+![Selenium](https://img.shields.io/badge/Selenium-FFD700?style=for-the-badge&logo=selenium&logoColor=1A1A1A)
 
 </div>
 
@@ -135,12 +135,12 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-![SceneBuilder](https://img.shields.io/badge/SceneBuilder-1572B6?style=for-the-badge&logo=java&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-FFD700?style=for-the-badge&logo=android-studio&logoColor=1A1A1A)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FFD700?style=for-the-badge&logo=intellij-idea&logoColor=1A1A1A)
+![PyCharm](https://img.shields.io/badge/PyCharm-FFD700?style=for-the-badge&logo=pycharm&logoColor=1A1A1A)
+![VS Code](https://img.shields.io/badge/VS_Code-FFD700?style=for-the-badge&logo=visual-studio-code&logoColor=1A1A1A)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-FFD700?style=for-the-badge&logo=visual-studio&logoColor=1A1A1A)
+![SceneBuilder](https://img.shields.io/badge/SceneBuilder-FFD700?style=for-the-badge&logo=java&logoColor=1A1A1A)
 
 </div>
 
@@ -148,10 +148,10 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FFD700?style=for-the-badge&logo=figma&logoColor=1A1A1A)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FFD700?style=for-the-badge&logo=adobe-xd&logoColor=1A1A1A)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FFD700?style=for-the-badge&logo=adobe-illustrator&logoColor=1A1A1A)
+![Canva](https://img.shields.io/badge/Canva-FFD700?style=for-the-badge&logo=canva&logoColor=1A1A1A)
 
 </div>
 
@@ -159,14 +159,14 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-FFD700?style=for-the-badge&logo=audacity&logoColor=1A1A1A)
+![Unity](https://img.shields.io/badge/Unity-FFD700?style=for-the-badge&logo=unity&logoColor=1A1A1A)
+![React](https://img.shields.io/badge/React-FFD700?style=for-the-badge&logo=react&logoColor=1A1A1A)
+![NestJS](https://img.shields.io/badge/NestJS-FFD700?style=for-the-badge&logo=nestjs&logoColor=1A1A1A)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🎯 Areas of Expertise & Skills
 
@@ -174,18 +174,18 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 | Domain | Proficiency | Technologies |
 |--------|-------------|--------------|
-| 🧪 **QA & Testing** | <img src="https://geps.dev/progress/95?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Manual Testing, Automation, Test Strategy, Jira, TestRail |
-| 🤖 **AI/ML Development** | <img src="https://geps.dev/progress/80?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
-| 📱 **Android Development** | <img src="https://geps.dev/progress/90?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Native Android, Room DB, Material Design, MVVM, AI Integration |
-| ⚙️ **DevOps & CI/CD** | <img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
-| 🌐 **Backend Development** | <img src="https://geps.dev/progress/80?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
-| 🎨 **Frontend Development** | <img src="https://geps.dev/progress/70?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | React, HTML5, CSS3, JavaScript, Responsive Design |
-| 🗄️ **Database Management** | <img src="https://geps.dev/progress/85?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | SQL, NoSQL, Query Optimization, Database Design |
-| 🔐 **System Design** | <img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Architecture Patterns, Scalability, Security, Performance |
+| 🧪 **QA & Testing** | <img src="https://geps.dev/progress/95?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | Manual Testing, Automation, Test Strategy, Jira, TestRail |
+| 🤖 **AI/ML Development** | <img src="https://geps.dev/progress/80?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
+| 📱 **Android Development** | <img src="https://geps.dev/progress/90?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | Native Android, Room DB, Material Design, MVVM, AI Integration |
+| ⚙️ **DevOps & CI/CD** | <img src="https://geps.dev/progress/75?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
+| 🌐 **Backend Development** | <img src="https://geps.dev/progress/80?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
+| 🎨 **Frontend Development** | <img src="https://geps.dev/progress/70?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | React, HTML5, CSS3, JavaScript, Responsive Design |
+| 🗄️ **Database Management** | <img src="https://geps.dev/progress/85?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | SQL, NoSQL, Query Optimization, Database Design |
+| 🔐 **System Design** | <img src="https://geps.dev/progress/75?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" /> | Architecture Patterns, Scalability, Security, Performance |
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🚀 Featured Projects & Achievements
 
@@ -210,7 +210,7 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 📚 Knowledge Domains
 
@@ -259,7 +259,7 @@ mindmap
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🌐 Connect & Collaborate
 
@@ -267,11 +267,11 @@ mindmap
 
 I'm always excited to connect with fellow developers, collaborate on innovative projects, and explore new opportunities in tech! Feel free to reach out through any of these platforms:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loay-egbaria/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/loay_egbaria/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/LoayEg/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/loayegbaria)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Loayegb@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FFD700?style=for-the-badge&logo=linkedin&logoColor=1A1A1A)](https://www.linkedin.com/in/loay-egbaria/)
+[![Instagram](https://img.shields.io/badge/Instagram-FFD700?style=for-the-badge&logo=instagram&logoColor=1A1A1A)](https://www.instagram.com/loay_egbaria/)
+[![Facebook](https://img.shields.io/badge/Facebook-FFD700?style=for-the-badge&logo=facebook&logoColor=1A1A1A)](https://www.facebook.com/LoayEg/)
+[![Discord](https://img.shields.io/badge/Discord-FFD700?style=for-the-badge&logo=discord&logoColor=1A1A1A)](https://discord.com/users/loayegbaria)
+[![Email](https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=1A1A1A)](mailto:Loayegb@gmail.com)
 
 ### 📧 Professional Inquiries
 **Email**: Loayegb@gmail.com
@@ -285,7 +285,7 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 💭 Philosophy & Approach
 
@@ -308,7 +308,7 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 ## 🎓 Continuous Learning Journey
 
@@ -324,7 +324,7 @@ I believe in lifelong learning and constantly expanding my skill set. Currently 
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center">
 
@@ -333,7 +333,7 @@ When I'm not coding, you can find me exploring the latest AI research papers, co
 
 ### 📊 Profile Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=LoayEgbaria&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=LoayEgbaria&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 🌟 Thank You for Visiting!
 
@@ -341,6 +341,6 @@ When I'm not coding, you can find me exploring the latest AI research papers, co
 
 **Let's build something amazing together!** 🚀
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=150&section=footer&text=Happy%20Coding!&fontSize=50&fontColor=FFD700&animation=twinkling&fontAlignY=72" width="100%"/>
 
 </div>
