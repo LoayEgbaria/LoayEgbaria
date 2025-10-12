@@ -15,7 +15,7 @@
 ###
 
 <br><h4 align="left">🔧 Technologies and Tools I've Worked With :
-- **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly · Java Script · HTML · CSS
+- **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly · JavaScript · HTML · CSS
 - **Frameworks**: Django · Flask · FastAPI · Spring
 - **Libraries**: NumPy · pandas · TensorFlow · PyTorch
 - **Tools**: Git · Docker · Jenkins · Jira · TestRail · Postman · Audacity
