@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Loay Egbaria, a passionate Computer Science student and AI Android Developer.</h2>
+<h2 align="center">I'm Loay Egbaria, a passionate Computer Science student, QA Automation & Manual Tester, and AI Android Developer.</h2>
 
 ###
 
@@ -10,15 +10,15 @@
 
 ###
 
-<h4 align="left">🚀 About Me :<br><br>🔭 I’m currently working on AI-powered Android applications and Animation&Robotics projects.<br><br>🎓 Education: Currently studying Computer Science at University of Haifa.<br><br>📫 How to reach me: Loayegb@gmail.com .</h4>
+<h4 align="left">🚀 About Me :<br><br>🔭 I’m currently working on AI-powered Android applications and QA projects.<br><br>🎓 Education: Currently studying Computer Science at University of Haifa.<br><br>📫 How to reach me: Loayegb@gmail.com .</h4>
 
 ###
 
 <br><h4 align="left">🔧 Technologies and Tools I've Worked With :
-- **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly
+- **Languages**: Python · Java · C++ · C · SQL · MATLAB · Assembly · Java Script · HTML · CSS
 - **Frameworks**: Django · Flask · FastAPI · Spring
 - **Libraries**: NumPy · pandas · TensorFlow · PyTorch
-- **Tools**: Git · Docker · Jenkins · JIRA · Postman · Audacity
+- **Tools**: Git · Docker · Jenkins · Jira · TestRail · Postman · Audacity
 - **IDEs**: IntelliJ IDEA · PyCharm · VS Code · Android Studio · Visual Studio · SceneBuilder
 - **Databases**: MySQL · PostgreSQL · MongoDB · SQLite
 - **Platforms**: AWS · Azure · Google Cloud Platform · VMware · Linux
