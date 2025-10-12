@@ -32,7 +32,6 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 ### 📫 Get In Touch
 - **Email**: Loayegb@gmail.com
-- **Location**: Haifa, Israel
 - **Availability**: Open to collaborations and opportunities
 
 <br clear="right"/>
