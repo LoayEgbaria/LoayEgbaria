@@ -2,7 +2,7 @@
 
 # 👨‍💻 Loay Egbaria
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -45,14 +45,14 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-007AAC?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -95,8 +95,8 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -168,42 +168,20 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&stroke=2E9EF7&ring=2E9EF7&fire=FF6B6B&currStreakLabel=2E9EF7" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF&langs_count=10" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&theme=tokyo-night" />
-
-</div>
-
-<div align="center">
-
-### 🏆 GitHub Profile Trophy
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎯 Areas of Expertise & Skills
 
 <div align="center">
 
 | Domain | Proficiency | Technologies |
 |--------|-------------|--------------|
-| 🧪 **QA & Testing** | ████████████████████░ 95% | Manual Testing, Automation, Test Strategy, Jira, TestRail |
-| 🤖 **AI/ML Development** | ████████████████░░░░░ 80% | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
-| 📱 **Android Development** | ███████████████████░░ 90% | Native Android, Room DB, Material Design, MVVM, AI Integration |
-| ⚙️ **DevOps & CI/CD** | ███████████████░░░░░░ 75% | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
-| 🌐 **Backend Development** | ████████████████░░░░░ 80% | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
-| 🎨 **Frontend Development** | ██████████████░░░░░░░ 70% | React, HTML5, CSS3, JavaScript, Responsive Design |
-| 🗄️ **Database Management** | ████████████████░░░░░ 85% | SQL, NoSQL, Query Optimization, Database Design |
-| 🔐 **System Design** | ███████████████░░░░░░ 75% | Architecture Patterns, Scalability, Security, Performance |
+| 🧪 **QA & Testing** | ![95%](https://progress-bar.dev/95?color=00D9FF) | Manual Testing, Automation, Test Strategy, Jira, TestRail |
+| 🤖 **AI/ML Development** | ![80%](https://progress-bar.dev/80?color=00D9FF) | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
+| 📱 **Android Development** | ![90%](https://progress-bar.dev/90?color=00D9FF) | Native Android, Room DB, Material Design, MVVM, AI Integration |
+| ⚙️ **DevOps & CI/CD** | ![75%](https://progress-bar.dev/75?color=00D9FF) | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
+| 🌐 **Backend Development** | ![80%](https://progress-bar.dev/80?color=00D9FF) | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
+| 🎨 **Frontend Development** | ![70%](https://progress-bar.dev/70?color=00D9FF) | React, HTML5, CSS3, JavaScript, Responsive Design |
+| 🗄️ **Database Management** | ![85%](https://progress-bar.dev/85?color=00D9FF) | SQL, NoSQL, Query Optimization, Database Design |
+| 🔐 **System Design** | ![75%](https://progress-bar.dev/75?color=00D9FF) | Architecture Patterns, Scalability, Security, Performance |
 
 </div>
 
@@ -332,16 +310,6 @@ I'm always excited to connect with fellow developers, collaborate on innovative 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=Loay's%20Contribution%20Graph&hide_border=true&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&theme=tokyo-night)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🎓 Continuous Learning Journey
 
 <div align="center">
@@ -365,9 +333,7 @@ When I'm not coding, you can find me exploring the latest AI research papers, co
 
 ### 📊 Profile Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=2E9EF7&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?style=for-the-badge&color=2E9EF7&labelColor=0D1117)
+![Profile Views](https://komarev.com/ghpvc/?username=LoayEgbaria&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 🌟 Thank You for Visiting!
 
