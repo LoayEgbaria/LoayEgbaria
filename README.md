@@ -2,7 +2,7 @@
 
 # 👨‍💻 Loay Egbaria
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=9D4EDD&center=true&vCenter=true&width=1000&lines=Computer+Science+Student+%40+University+of+Haifa;QA+Automation+%26+Manual+Testing+Expert;AI+Android+Developer;Machine+Learning+Enthusiast;Full+Stack+Developer;DevOps+%26+CI%2FCD+Practitioner)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -174,14 +174,14 @@ I'm a passionate **Computer Science student** at the University of Haifa, specia
 
 | Domain | Proficiency | Technologies |
 |--------|-------------|--------------|
-| 🧪 **QA & Testing** | ![95%](https://progress-bar.dev/95?color=00D9FF) | Manual Testing, Automation, Test Strategy, Jira, TestRail |
-| 🤖 **AI/ML Development** | ![80%](https://progress-bar.dev/80?color=00D9FF) | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
-| 📱 **Android Development** | ![90%](https://progress-bar.dev/90?color=00D9FF) | Native Android, Room DB, Material Design, MVVM, AI Integration |
-| ⚙️ **DevOps & CI/CD** | ![75%](https://progress-bar.dev/75?color=00D9FF) | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
-| 🌐 **Backend Development** | ![80%](https://progress-bar.dev/80?color=00D9FF) | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
-| 🎨 **Frontend Development** | ![70%](https://progress-bar.dev/70?color=00D9FF) | React, HTML5, CSS3, JavaScript, Responsive Design |
-| 🗄️ **Database Management** | ![85%](https://progress-bar.dev/85?color=00D9FF) | SQL, NoSQL, Query Optimization, Database Design |
-| 🔐 **System Design** | ![75%](https://progress-bar.dev/75?color=00D9FF) | Architecture Patterns, Scalability, Security, Performance |
+| 🧪 **QA & Testing** | <img src="https://geps.dev/progress/95?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Manual Testing, Automation, Test Strategy, Jira, TestRail |
+| 🤖 **AI/ML Development** | <img src="https://geps.dev/progress/80?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | TensorFlow, PyTorch, NLP, Computer Vision, Model Training |
+| 📱 **Android Development** | <img src="https://geps.dev/progress/90?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Native Android, Room DB, Material Design, MVVM, AI Integration |
+| ⚙️ **DevOps & CI/CD** | <img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Docker, Kubernetes, Jenkins, Terraform, Cloud Deployment |
+| 🌐 **Backend Development** | <img src="https://geps.dev/progress/80?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Django, Flask, FastAPI, Spring, RESTful APIs, Microservices |
+| 🎨 **Frontend Development** | <img src="https://geps.dev/progress/70?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | React, HTML5, CSS3, JavaScript, Responsive Design |
+| 🗄️ **Database Management** | <img src="https://geps.dev/progress/85?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | SQL, NoSQL, Query Optimization, Database Design |
+| 🔐 **System Design** | <img src="https://geps.dev/progress/75?dangerColor=9D4EDD&warningColor=9D4EDD&successColor=9D4EDD" /> | Architecture Patterns, Scalability, Security, Performance |
 
 </div>
 
@@ -333,7 +333,7 @@ When I'm not coding, you can find me exploring the latest AI research papers, co
 
 ### 📊 Profile Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=LoayEgbaria&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=LoayEgbaria&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS)
 
 ### 🌟 Thank You for Visiting!
 
